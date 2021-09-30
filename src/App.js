@@ -91,6 +91,7 @@ const App = () => {
   // runs function on page load if wallet is connected
   useEffect(()=>{
     detectWalletConnection();
+    <MintCount />
   }, [])
 
   return (
