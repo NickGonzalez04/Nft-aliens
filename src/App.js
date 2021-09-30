@@ -10,7 +10,7 @@ import { mintEventListener } from "./eth/helperFunc";
 const TWITTER_HANDLE = '_buildspace';
 const TWITTER_HANDLE_ME = 'NickGonzalez__'
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
-const OPENSEA_LINK = 'https://testnets.opensea.io/collection/back-to-the-ether-1"';
+const OPENSEA_LINK = 'https://testnets.opensea.io/collection/back-to-the-ether-2';
 
 
 const App = () => {
