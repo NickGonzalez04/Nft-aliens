@@ -81,7 +81,7 @@ const App = () => {
 
   const connectedWallet = () => (
     <div className="connected-wallet-status">
-      <p className="sub-text"><span className="connection-status"></span>Walleted Connected</p>
+      <p className="sub-text"><span className="connection-status"></span>Wallet Connected</p>
       <MintComponent />
       <iframe src="https://giphy.com/embed/NDJWGU4n74di0" width="280" height="280" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
     </div>
