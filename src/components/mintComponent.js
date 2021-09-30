@@ -3,7 +3,7 @@ import DopeNft from "../utils/dopeNft.json";
 import React, { useState, useEffect } from 'react';
 import MineLoader from "./loading";
 //Address of deployed contract
-const CONTRACT_ADDRESS = "0x1238E2c79e1a138974cc9f620D845AC540c55C4b";
+const CONTRACT_ADDRESS = "0x0eCC5Bf2C9F3936Ed3E28800c44b18Ce98A42cD6";
 ;
 
 const MintComponent = ()=>{
