@@ -1,5 +1,5 @@
 import { ethers } from 'ethers';
-import DopeNft from "../utils/dopeNft.json";
+import DopeNft from "../utils/dopeNft.js";
 
 //Address of deployed contract
 const CONTRACT_ADDRESS = "0x0eCC5Bf2C9F3936Ed3E28800c44b18Ce98A42cD6";
