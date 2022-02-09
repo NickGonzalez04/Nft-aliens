@@ -1,5 +1,5 @@
 import { ethers } from 'ethers';
-import DopeNft from "../utils/dopeNft.json";
+import DopeNft from "../utils/dopeNft.js";
 import React, { useState, useEffect } from 'react';
 import MineLoader from "./loading";
 //Address of deployed contract
